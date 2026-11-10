@@ -111,7 +111,7 @@
     "ip_port": "60.223.72.213:8002",
     "ip": "60.223.72.213",
     "port": "8002",
-    "version": "",
+    "version": "v. 1.0 Build 25",
     "max_client": "",
     "current_conn": "",
     "geo": "山西 柳巷街道 | China Unicom China169 Network"
@@ -138,7 +138,7 @@
     "ip_port": "60.223.72.213:8005",
     "ip": "60.223.72.213",
     "port": "8005",
-    "version": "",
+    "version": "v. 1.0 Build 25",
     "max_client": "",
     "current_conn": "",
     "geo": "山西 柳巷街道 | China Unicom China169 Network"
@@ -198,8 +198,8 @@
     "geo": "山西 柳巷街道 | China Unicom China169 Network"
   },
   {
-    "ip_port": "60.223.94.113:8001",
-    "ip": "60.223.94.113",
+    "ip_port": "60.223.94.184:8001",
+    "ip": "60.223.94.184",
     "port": "8001",
     "version": "",
     "max_client": "",
@@ -594,6 +594,24 @@
     "geo": "山西 柳巷街道 | China Unicom China169 Network"
   },
   {
+    "ip_port": "118.79.38.62:6000",
+    "ip": "118.79.38.62",
+    "port": "6000",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "山西 太原 | CNC Group CHINA169 Shanxi Province Network"
+  },
+  {
+    "ip_port": "118.79.38.62:6001",
+    "ip": "118.79.38.62",
+    "port": "6001",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "山西 太原 | CNC Group CHINA169 Shanxi Province Network"
+  },
+  {
     "ip_port": "118.79.112.10:6000",
     "ip": "118.79.112.10",
     "port": "6000",
@@ -672,13 +690,13 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.34.10:8082",
     "ip": "124.165.34.10",
     "port": "8082",
-    "version": "",
+    "version": "v. 1.0 Build 25",
     "max_client": "",
     "current_conn": "",
     "geo": "未知归属地"
@@ -693,13 +711,22 @@
     "geo": "未知归属地"
   },
   {
-    "ip_port": "124.165.70.29:8081",
-    "ip": "124.165.70.29",
-    "port": "8081",
-    "version": "",
+    "ip_port": "124.165.34.10:8084",
+    "ip": "124.165.34.10",
+    "port": "8084",
+    "version": "v. 1.0 Build 25",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "124.165.34.10:8085",
+    "ip": "124.165.34.10",
+    "port": "8085",
+    "version": "v. 1.0 Build 25",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.79.163:8081",
@@ -709,6 +736,15 @@
     "max_client": "",
     "current_conn": "",
     "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+  },
+  {
+    "ip_port": "124.165.94.185:8081",
+    "ip": "124.165.94.185",
+    "port": "8081",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.121.44:8082",
@@ -771,7 +807,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.121.200:8082",
@@ -798,7 +834,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.127.9:8081",
@@ -807,7 +843,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.127.9:8082",
@@ -825,7 +861,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.187.10:8081",
@@ -834,7 +870,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.187.33:8081",
@@ -843,7 +879,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.187.120:8082",
@@ -879,7 +915,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.193.8:8085",
@@ -897,7 +933,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.193.35:8081",
@@ -906,7 +942,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.193.35:8082",
@@ -924,7 +960,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.196.26:8081",
@@ -933,7 +969,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.196.26:8082",
@@ -951,7 +987,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.196.55:8082",
@@ -978,7 +1014,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.196.84:8084",
@@ -1023,7 +1059,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.198.34:8081",
@@ -1032,7 +1068,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.198.34:8082",
@@ -1104,7 +1140,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.199.96:8081",
@@ -1113,7 +1149,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.199.162:8081",
@@ -1122,7 +1158,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.199.162:8082",
@@ -1158,7 +1194,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.205.67:8081",
@@ -1167,7 +1203,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.205.67:8082",
@@ -1257,7 +1293,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.206.87:8082",
@@ -1275,34 +1311,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
-  },
-  {
-    "ip_port": "124.165.206.102:8083",
-    "ip": "124.165.206.102",
-    "port": "8083",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
     "geo": "未知归属地"
-  },
-  {
-    "ip_port": "124.165.206.102:8084",
-    "ip": "124.165.206.102",
-    "port": "8084",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "未知归属地"
-  },
-  {
-    "ip_port": "124.165.206.113:8081",
-    "ip": "124.165.206.113",
-    "port": "8081",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
   },
   {
     "ip_port": "124.165.206.122:8081",
@@ -1316,15 +1325,6 @@
   {
     "ip_port": "124.165.206.122:8082",
     "ip": "124.165.206.122",
-    "port": "8082",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "未知归属地"
-  },
-  {
-    "ip_port": "124.165.206.138:8082",
-    "ip": "124.165.206.138",
     "port": "8082",
     "version": "",
     "max_client": "",
@@ -1374,7 +1374,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.210.3:8082",
@@ -1392,7 +1392,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 临汾市 | CNC Group CHINA169 Shan1xi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.165.210.98:8081",
@@ -1452,15 +1452,6 @@
     "ip_port": "124.165.211.92:8081",
     "ip": "124.165.211.92",
     "port": "8081",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "未知归属地"
-  },
-  {
-    "ip_port": "124.165.211.187:8085",
-    "ip": "124.165.211.187",
-    "port": "8085",
     "version": "",
     "max_client": "",
     "current_conn": "",
@@ -2217,7 +2208,7 @@
     "ip_port": "124.165.232.26:8082",
     "ip": "124.165.232.26",
     "port": "8082",
-    "version": "",
+    "version": "v. 1.0 Build 25",
     "max_client": "",
     "current_conn": "",
     "geo": "未知归属地"
@@ -2226,16 +2217,7 @@
     "ip_port": "124.165.232.26:8083",
     "ip": "124.165.232.26",
     "port": "8083",
-    "version": "v. 1.0 Build 25",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "未知归属地"
-  },
-  {
-    "ip_port": "124.165.232.26:8084",
-    "ip": "124.165.232.26",
-    "port": "8084",
-    "version": "v. 1.0 Build 25",
+    "version": "",
     "max_client": "",
     "current_conn": "",
     "geo": "未知归属地"
@@ -2385,15 +2367,6 @@
     "geo": "未知归属地"
   },
   {
-    "ip_port": "124.165.251.54:8081",
-    "ip": "124.165.251.54",
-    "port": "8081",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "未知归属地"
-  },
-  {
     "ip_port": "124.165.252.102:8081",
     "ip": "124.165.252.102",
     "port": "8081",
@@ -2445,7 +2418,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.42.226:8002",
@@ -2454,7 +2427,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.43.54:8001",
@@ -2472,25 +2445,16 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
-    "ip_port": "183.184.135.126:8005",
-    "ip": "183.184.135.126",
+    "ip_port": "183.184.135.148:8005",
+    "ip": "183.184.135.148",
     "port": "8005",
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
-  },
-  {
-    "ip_port": "183.184.145.90:8004",
-    "ip": "183.184.145.90",
-    "port": "8004",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.149.43:8001",
@@ -2499,7 +2463,7 @@
     "version": "v. 1.0 Build 25",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.149.43:8002",
@@ -2526,7 +2490,7 @@
     "version": "v. 1.0 Build 25",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.149.43:8005",
@@ -2535,7 +2499,7 @@
     "version": "v. 1.0 Build 25",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.149.229:8003",
@@ -2553,7 +2517,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.162.47:8001",
@@ -2580,7 +2544,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.170.147:8002",
@@ -2589,7 +2553,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.170.147:8003",
@@ -2598,7 +2562,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.170.147:8004",
@@ -2616,7 +2580,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.193.54:8001",
@@ -2634,7 +2598,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.193.54:8003",
@@ -2643,7 +2607,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.193.54:8004",
@@ -2655,9 +2619,18 @@
     "geo": "山西 太原 | China Unicom Shanxi Province Network"
   },
   {
-    "ip_port": "183.184.201.65:8003",
+    "ip_port": "183.184.201.65:8001",
     "ip": "183.184.201.65",
-    "port": "8003",
+    "port": "8001",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "183.184.201.65:8002",
+    "ip": "183.184.201.65",
+    "port": "8002",
     "version": "",
     "max_client": "",
     "current_conn": "",
@@ -2670,7 +2643,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.210.126:8001",
@@ -2697,7 +2670,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.222.31:8001",
@@ -2706,7 +2679,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.222.197:8001",
@@ -2715,7 +2688,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.184.223.144:8001",
@@ -2733,7 +2706,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "山西 太原 | China Unicom Shanxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "183.188.23.139:6000",
