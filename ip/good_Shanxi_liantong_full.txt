@@ -10,6 +10,8 @@
 118.79.212.16:6000 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | CNC Group CHINA169 Shanxi Province Network
 183.184.10.127:9010 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.10.127:9020 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
+183.184.10.194:9011 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
+183.184.10.194:9020 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.11.227:9001 | 版本:v. 1.0 Build 25 | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.11.227:9002 | 版本:v. 1.0 Build 25 | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.11.227:9003 | 版本:v. 1.0 Build 25 | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
@@ -30,8 +32,6 @@
 183.184.11.227:9018 | 版本:v. 1.0 Build 25 | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.11.227:9019 | 版本:v. 1.0 Build 25 | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.11.227:9020 | 版本:v. 1.0 Build 25 | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
-183.184.24.244:9013 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
-183.184.52.45:9003 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.52.186:9003 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.63.136:9010 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.63.136:9020 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
@@ -47,8 +47,6 @@
 183.184.158.190:9020 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.169.172:9010 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.169.172:9020 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
-183.184.179.144:9012 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
-183.184.179.144:9013 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.200.227:9003 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.202.77:9010 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
 183.184.202.77:9020 | 版本: | 最大客户端: | 当前连接: | 山西 太原 | China Unicom Shanxi Province Network
